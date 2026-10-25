@@ -1,0 +1,11 @@
+Doucet Saloon | Castro Valley's Legendary Neighborhood Bar
+
+Imported from: https://eloquent-truffle-292f10.netlify.app
+Netlify project: eloquent-truffle-292f10
+Published deployment: 6a13f0d45acd30df2100c7b1
+Published at: 2026-05-25T06:48:52.320Z
+
+Original deployed files are preserved in the recovery export.
+The main branch uses project-relative asset URLs and disables Jekyll
+processing so this static site can be served by GitHub Pages.
+Historical Netlify project snapshots are kept on named branches.
